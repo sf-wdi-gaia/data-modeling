@@ -40,7 +40,6 @@ We call these "relational" because different models - or pieces of data - can be
 <figure>
   <img src="https://cloud.githubusercontent.com/assets/25366/8589355/2646c588-25ca-11e5-9f2d-3d3afe8b7817.png" alt="relational db">
   <br>
-  <figcaption>Descriptive caption</figcaption>
 </figure>
 
 ## Let's Draw on The Board - We Do
@@ -62,7 +61,6 @@ See, this is when we start seeing relationships form. This is great. You can ima
 <figure>
   <img src="http://www.vivekmchawla.com/content/images/2013/Dec/ERD_Relationship_Symbols_Quick_Reference-1.png" alt="crows foot notation cheat sheet">
   <br>
-  <figcaption>Descriptive caption</figcaption>
 </figure>
 
 Relationships happen when we start seeing multiple duplicative information or when one object needs to "connect" to another object.
@@ -97,6 +95,3 @@ Keep in mind, the ```belongs_to``` part always goes on the opposite side of the 
 ## Closing Thoughts
 - How do you represent a relational database in drawings? How would you describe the metaphor of storing data like a spreadsheet?
 - What are the three types of relationships, and what are some examples of how you would you use them?
-
-## Additional Resources
-- [External Resource](#)
